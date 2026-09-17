@@ -3,6 +3,7 @@ message: "If you use this clean digital edition, please cite it as shown below."
 title: "New Developments in Mathematics, Computing, the Sciences, and New Views of Computation"
 version: "0.1.0-review"
 type: article
+license: "CC-BY-ND-4.0"
 authors:
   - family-names: Boulanger
     given-names: Albert
