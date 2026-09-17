@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "upload_type": "publication",
+    "publication_type": "conferencepaper",
+    "title": "New Developments in Mathematics, Computing, the Sciences, and New Views of Computation",
+    "creators": [
+      {
+        "name": "Boulanger, Albert",
+        "orcid": "0000-0003-0789-8709"
+      }
+    ],
+    "publication_date": "1986",
+    "version": "Clean digital edition, v0.1.0-review",
+    "description": "<p>A clean, searchable digital edition of a paper presented at the 1986 Computers and Mathematics Conference.</p><p>The scanned conference-paper PDF is the controlling historical version. An earlier Scribe source and bibliography were used to repair OCR errors; obvious typographical errors were corrected conservatively, while wording and historical terminology were otherwise preserved.</p>",
+    "keywords": [
+      "parallel computation",
+      "asynchronous computation",
+      "statistical mechanics",
+      "nonlinear dynamics",
+      "neural networks",
+      "quantum computation"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://albert.aboulanger.com/papers/two-views/",
+        "relation": "isIdenticalTo",
+        "scheme": "url"
+      }
+    ]
+  }
+}
