@@ -18,7 +18,7 @@ This folder prepares the clean digital edition of **New Developments in Mathemat
 
 Do **not** publish this package until the following have been explicitly completed:
 
-1. Confirm the right to republish the BBN-era conference paper and select an open-access license.
+1. **Completed:** rights holder has confirmed the right to republish this clean digital edition under CC BY-ND 4.0.
 2. Reserve a Zenodo DOI, add it to the final PDF, public HTML page, and citation records, and publish the Zenodo record.
 3. Copy the final searchable PDF to the public-site publication directory.
 4. Merge the corresponding public-site review pull request.
